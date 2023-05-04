@@ -25,3 +25,7 @@ RecBole 1.1.1 has been used: https://recbole.io/
 CodeCarbon has been used:https://codecarbon.io/
 
 Dataset have been preprocessed by us, and original version can be found here: https://github.com/RUCAIBox/RecSysDatasets
+
+## Full results
+
+* 'results.xlsx' is an Excel file containing all results measured and computed, including all metrics provided by CodeCarbon and all evaluation metrics provided by RecBole
