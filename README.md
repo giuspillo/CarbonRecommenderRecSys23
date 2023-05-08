@@ -33,5 +33,5 @@ Graphical results obtained and described in the original paper.
 Full results available in the 'results.xlsx' file.
 
 ### Mind
-![test](/graphs/sum_mind_dataset.png "test")
+![](/graphs/sum_mind_dataset.png)
 
