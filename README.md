@@ -26,10 +26,12 @@ CodeCarbon has been used:https://codecarbon.io/
 
 Dataset have been preprocessed by us, and original version can be found here: https://github.com/RUCAIBox/RecSysDatasets
 
-## Full results
-
-* 'results.xlsx' is an Excel file containing all results measured and computed, including all metrics provided by CodeCarbon and all evaluation metrics provided by RecBole
 
 ## Results
 
-![This is a alt text.](/graphs/amz_gini_global.png "This is a sample image.")
+Graphical results obtained and described in the original paper.
+Full results available in the 'results.xlsx' file.
+
+### Mind
+![](/graphs/sum_mind_dataset.png | width=300)
+
