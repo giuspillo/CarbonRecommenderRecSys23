@@ -29,3 +29,7 @@ Dataset have been preprocessed by us, and original version can be found here: ht
 ## Full results
 
 * 'results.xlsx' is an Excel file containing all results measured and computed, including all metrics provided by CodeCarbon and all evaluation metrics provided by RecBole
+
+## Results
+
+![This is a alt text.](/graphs/amz_gini_global.png "This is a sample image.")
