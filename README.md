@@ -35,3 +35,32 @@ Full results available in the 'results.xlsx' file.
 ### Mind
 ![](/graphs/sum_mind_dataset.png)
 
+### Movielens-1M
+![](/graphs/sum_movielens_dataset.png)
+
+### Amazon-books
+![](/graphs/sum_amazon_books_dataset.png)
+
+
+### Movielens-1M: Hyper-parameter impact
+
+In this section, for some hyper-parameters (embedding size, negative examples), we set different values and compared with the default values. These experiments have been conducted on the ML1M dataset, considering DGCF as recommendation model, and considering two recommendation metrics (Recall@10, NDCG@10).
+We considered these values:
+* embedding size:
+    * 32
+    * 64 (default)
+    * 128
+* negative examples:
+    * 1 (default)
+    * 2
+
+![](/graphs/sum_sens_movielens_dgcf.png)
+
+Full results available in the 'sens.xlsx' file.
+
+
+## Full results
+
+* 'results.xlsx' is an Excel file containing all results measured and computed, including all metrics provided by CodeCarbon and all evaluation metrics provided by RecBole
+
+* 'sens.xlsx' contains the full results of the hyper-parameter impact. 
