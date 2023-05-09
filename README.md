@@ -34,12 +34,15 @@ Full results available in the 'results.xlsx' file.
 
 ### Mind
 ![](/graphs/sum_mind_dataset.png)
+If the image should not be visible, it is possible to find it here: https://imgur.com/kzakVk2
 
 ### Movielens-1M
 ![](/graphs/sum_movielens_dataset.png)
+If the image should not be visible, it is possible to find it here: https://imgur.com/4N2kY8F
 
 ### Amazon-books
 ![](/graphs/sum_amazon_books_dataset.png)
+If the image should not be visible, it is possible to find it here: https://imgur.com/96Lh2zK
 
 
 ### Movielens-1M: Hyper-parameter impact
@@ -55,6 +58,7 @@ We considered these values:
     * 2
 
 ![](/graphs/sum_sens_movielens_dgcf.png)
+If the image should not be visible, it is possible to find it here: https://imgur.com/bYjhqr5
 
 Full results available in the 'sens.xlsx' file.
 
